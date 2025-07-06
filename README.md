@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Sreeja 👋
 
-<!--
-**Sreejamantha082/Sreejamantha082** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 EEE Student | Transitioning into Cloud & IT  
+💡 Learning AWS, Python, and GitHub for cloud projects  
+🔌 Background in circuits, IoT, and embedded systems  
+📚 Currently learning: Linux, S3, EC2, DevOps Basics  
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack:
+- ☁ AWS, GitHub
+- 🐍 Python, Shell Scripting
+- 🧰 Linux, VS Code, TinkerCAD
+- ⚙ Arduino, IoT, Sensors
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Goals:
+- Become a Cloud Engineer or DevOps Associate  
+- Build GitHub streak with hands-on projects  
+- Share beginner-friendly projects
+
+📫 Email: manthasreeja@gmail.com  
+🔗 LinkedIn: [https://www.linkedin.com/in/sreeja-mantha-a314952a3]
+
+### 🤝I'm open to cloud-based internships, beginner projects, and collaborations
